@@ -2,7 +2,7 @@
 
 
 -------------------------------------------------
-![Screenshot of game](https://imgur.com/a/2U1Shqp)
+![alt text](https://imgur.com/a/2U1Shqp)
 
 ** This game is only simple Tic Tac Toe that play between tow plyers or with computer. **
 
