@@ -2,7 +2,7 @@
 
 
 -------------------------------------------------
-![alt text](/Users/mo7amed178/WDI/project-1/Images/Screen Shot 1440-05-24 at 10.09.44 PM.png)
+![alt text](https://github.com/Mo7amed178/project-1/blob/master/Images/Screen%20Shot%201440-05-24%20at%2010.09.44%20PM.png)
 
 ## This game is only simple Tic Tac Toe that play between tow plyers or with computer.
 
