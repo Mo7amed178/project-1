@@ -2,9 +2,9 @@
 
 
 -------------------------------------------------
-![alt text](https://imgur.com/a/2U1Shqp)
+![alt text](/Users/mo7amed178/WDI/project-1/Images/Screen Shot 1440-05-24 at 10.09.44 PM.png)
 
-** This game is only simple Tic Tac Toe that play between tow plyers or with computer. **
+## This game is only simple Tic Tac Toe that play between tow plyers or with computer.
 
 ## Features Including :
 1. HTML
