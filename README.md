@@ -1,10 +1,13 @@
-# Tic Tac Toe - project 1 (GA)
+# Tic Tac Toe - (MISK and GENERAL ASSEMPLY)
 
 
 -------------------------------------------------
 ![alt text](https://github.com/Mo7amed178/project-1/blob/master/Images/Screen%20Shot%201440-05-24%20at%2010.09.44%20PM.png)
 
 ## This game is only simple Tic Tac Toe that play between tow plyers or with computer.
+
+## The link of the game
+![alt text](https://mo7amed178.github.io/project-1/)
 
 ## Features Including :
 1. HTML
@@ -19,18 +22,9 @@
 ## Difficult Part :
 it was the scenarios that included to computer turn to make it play and win.
 
-## Favourite Part: 
-HTML, and Javascript
-
 ## Future Part to work on:
 1. New Desgin, 
-2. adding more level to computer plays, 
-3. and payemnts method to play :)
-
-## The approach taken:
-
-## Unsolved problems:
-still the computer can win on the player.
+2. adding more level to computer plays
 
 ## Acknowledgements:
 I would to thank to all who help me to complete this game especially:
