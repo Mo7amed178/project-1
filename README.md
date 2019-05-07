@@ -7,7 +7,7 @@
 ## This game is only simple Tic Tac Toe that play between tow plyers or with computer.
 
 ## The link of the game
-![Game Link](https://mo7amed178.github.io/project-1/)
+[Game Link](https://mo7amed178.github.io/project-1/)
 
 ## Features Including :
 1. HTML
